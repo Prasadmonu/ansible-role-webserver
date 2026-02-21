@@ -1,7 +1,7 @@
 galaxy_info:
   author: Krishna Prasad
   description: Install and enable apache (httpd) with test page added in document root
-  
+  namespace: prasadmonu
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
